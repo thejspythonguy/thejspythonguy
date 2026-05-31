@@ -32,11 +32,13 @@ I am a senior technical lead and product leader with over 10 years of experience
 
 ## 〈 GitHub Stats 〉
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejspythonguy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejspythonguy&layout=compact&theme=radical)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejspythonguy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejspythonguy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 
-## 〈 Profile Views 〉
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thejspythonguy&style=flat-square&color=blue)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thejspythonguy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+</div>
