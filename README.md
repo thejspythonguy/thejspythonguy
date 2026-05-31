@@ -28,3 +28,15 @@ I am a senior technical lead and product leader with over 10 years of experience
 
 ---
 *"Quality is not an act, it is a habit."*
+
+
+## 〈 GitHub Stats 〉
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejspythonguy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejspythonguy&layout=compact&theme=radical)
+
+---
+
+## 〈 Profile Views 〉
+
+![Profile Views](https://komarev.com/ghpvc/?username=thejspythonguy&style=flat-square&color=blue)
