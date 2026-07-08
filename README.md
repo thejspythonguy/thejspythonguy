@@ -1,6 +1,6 @@
 <div align="center">
 
-# The JS Python Guy
+# Shail S @theJsPythonGuy
 
 **Senior Technical Lead · Product Leader · AI/ML Engineer**
 
